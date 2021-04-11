@@ -1,0 +1,42 @@
+[{
+  "id": 1,
+  "name": "Rudolf",
+  "email": "rmarquese0@archive.org",
+  "gender": "Agender"
+}, {
+  "id": 2,
+  "name": "Blanch",
+  "email": "bgranham1@bigcartel.com",
+  "gender": "Agender"
+}, {
+  "id": 3,
+  "name": "Eula",
+  "email": "eskeermor2@liveinternet.ru",
+  "gender": "Genderfluid"
+}, {
+  "id": 4,
+  "name": "Ingram",
+  "email": "iescale3@miitbeian.gov.cn",
+  "gender": "Genderfluid"
+}, {
+  "id": 5,
+  "name": "Cindie",
+  "image":" https://www.google.com/search?q=kangaroo&sxsrf=ALeKk00SlODbxtaEhhUIAhqujiQ5tlZLKA:1618111391047&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjp_63VnvXvAhXLQ30KHTP0BREQ_AUoAXoECAEQAw&biw=1366&bih=625#imgrc=7wOcU7jsnghUtM",
+  "email": "csegrave4@cnn.com",
+  "gender": "Male"
+}, {
+  "id": 6,
+  "name": "Morton",
+  "email": "mnerney5@quantcast.com",
+  "gender": "Polygender"
+}, {
+  "id": 7,
+  "name": "Derron",
+  "email": "dmangam6@samsung.com",
+  "gender": "Polygender"
+}, {
+  "id": 8,
+  "name": "Mylo",
+  "email": "mramsted7@uol.com.br",
+  "gender": "Genderfluid"
+}]
